@@ -1,0 +1,89 @@
+﻿+----------------------------------------------------------------------------+
+| nav                                                                        |
+| [img: PureSolar logo] [btn: Home] [lnk: About] [lnk: Services]                |
+| [lnk: Projects] [lnk: Blog] [lnk: Contact] [btn2: Get a Free Quote ->]        |
++----------------------------------------------------------------------------+
+| hero                                                                       |
+| [img: Solar panels, mountains and sunrise background]                       |
+| [t3: CLEAN ENERGY / SUSTAINABLE FUTURE]                      [h1: Solar]     |
+| [h2: Powering a]                                                           |
+| [h2: Greener Tomorrow]                                                     |
+| [t1: We deliver reliable and affordable solar energy solutions]             |
+| [t1: for homes, businesses and communities. Clean energy]                   |
+| [t1: today for a healthier planet tomorrow.]                                |
+| [btn2: Get a Free Quote ->] [btn3: Learn More]                              |
+| +------------------------------------------------------------------------+ |
+| | rail                                                                   | |
+| | [ico: experience] [h3: 25+] [t3: Years of Experience]                     | |
+| | [ico: customers] [h3: 5K+] [t3: Happy Customers]                         | |
+| | [ico: building] [h3: 1.2K+] [t3: Projects Completed]                     | |
+| | [ico: satisfaction] [h3: 98%] [t3: Customer Satisfaction]                | |
+| +------------------------------------------------------------------------+ |
++----------------------------------------------------------------------------+
++----------------------------------------------------------------------------+
+| section                                                                    |
+| [t3: / WHY SOLAR?]                                                         |
+| [h2: A Cleaner Planet]            +------------------+ +-----------------+ |
+| [h2: Starts with Solar]           | card             | | card            | |
+| [t2: Solar energy is a smart      | [ico: leaf]      | | [ico: lightning]| |
+| investment for a sustainable     | [h3: Lower       | | [h3: Energy     | |
+| future. It reduces your          | Energy Bills]    | | Independence]   | |
+| electricity bills, increases     | [t2: Generate    | | [t2: Reduce     | |
+| energy independence and helps    | your own clean   | | reliance on the | |
+| create a cleaner, greener planet | energy and save  | | grid and take   | |
+| for generations to come.]        | more every month.] | control of your | |
+| [btn2: Our Projects ->]          |                  | | energy future.] | |
+|                                  +------------------+ +-----------------+ |
+|                                  +------------------+ +-----------------+ |
+|                                  | card             | | card            | |
+|                                  | [ico: eco]       | | [ico: home]     | |
+|                                  | [h3: Eco Friendly] | [h3: Increase  | |
+|                                  | [t2: Cut carbon  | | Property Value] | |
+|                                  | emissions and    | | [t2: Solar      | |
+|                                  | help protect the | | panels add value| |
+|                                  | environment.]    | | to your home and| |
+|                                  |                  | | make it more    | |
+|                                  |                  | | attractive to   | |
+|                                  |                  | | buyers.]        | |
+|                                  +------------------+ +-----------------+ |
++----------------------------------------------------------------------------+
++----------------------------------------------------------------------------+
+| section                                                                    |
+| [t3: / OUR PROJECTS]                                                       |
+| [h2: Real Projects. Real Impact.]                 [btn4: <-] [btn4: ->]    |
+| [t2: Explore some of our latest solar installations and see how]            |
+| [t2: we're helping homeowners and businesses save energy]                  |
+| [t2: and build a cleaner future.]                                          |
+| +----------------------+ +----------------------+ +----------------------+ |
+| | card2                | | card2                | | card2                | |
+| | [img: residential]   | | [img: commercial]    | | [img: off-grid]      | |
+| | [ico: home]          | | [ico: building]      | | [ico: solar panel]   | |
+| | [h3: Residential     | | [h3: Commercial      | | [h3: Off-Grid Solar  | |
+| | Solar Project]       | | Solar Project]       | | Project]             | |
+| | [t3: California, USA]| | [t3: Texas, USA]     | | [t3: Nevada, USA]    | |
+| | [t2: A modern home   | | [t2: Helping         | | [t2: Reliable solar  | |
+| | with a high-         | | businesses reduce    | | power for remote     | |
+| | efficiency solar     | | operating costs with | | areas, providing     | |
+| | system, delivering   | | custom solar         | | clean energy and     | |
+| | clean and reliable   | | solutions and        | | energy freedom.]     | |
+| | energy.]             | | long-term savings.]  | |                      | |
+| +----------------------+ +----------------------+ +----------------------+ |
++----------------------------------------------------------------------------+
++----------------------------------------------------------------------------+
+| section                                                                    |
+| [t3: / SOLUTIONS]                                                         |
+| [h2: Solar Solutions for Every Need]                                      |
+| [t2: Whether you're a homeowner, business owner or part of a community,]    |
+| [t2: we have the right solar solution for you.]                            |
+| +--------------------------------------------------+ +------------------+ |
+| | rail                                             | | media            | |
+| | [ico: home] [h3: Residential Solar]               | | [img: circular   | |
+| | [t3: Clean energy for your home.]                | | solar photo]     | |
+| | [ico: building] [h3: Commercial Solar]           | | [ico: leaf badge]| |
+| | [t3: Power your business efficiently.]           | +------------------+ |
+| | [ico: battery] [h3: Solar Battery Storage]       |                      |
+| | [t3: Store energy for when you need it.]         |                      |
+| | [ico: wrench] [h3: Solar Maintenance]            |                      |
+| | [t3: Keep your system running at its best.]      |                      |
+| +--------------------------------------------------+                      |
++----------------------------------------------------------------------------+
